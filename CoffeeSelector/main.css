@@ -1,0 +1,28 @@
+header{
+    color: chocolate;
+    background-color: antiquewhite;
+    width: 50%;
+    font-family: "Comic Sans MS";
+}
+main{
+    align-items: baseline;
+}
+div .flavour{
+    border: 2px solid chocolate;
+}
+img{
+
+    border-color: chocolate;
+
+}
+p{
+    color: chocolate;
+    background-color: blanchedalmond;
+}
+input{
+    color: chocolate;
+    background-color: blanchedalmond;
+}
+div .col-xs-3{
+    color: chocolate;
+}
