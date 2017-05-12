@@ -1,0 +1,34 @@
+body{
+    background: #ffe7ce;
+    font-family: "Comic Sans MS";
+    color: antiquewhite;
+}
+.tab-panels ul{
+    margin:0;
+    padding:0;
+}
+.tab-panels ul li{
+    list-style-type: none;
+    display: inline-flex;
+    background: #ff792d;
+    margin:0;
+    padding: 3px 10px;
+    border-radius: 10px 10px 0 0;
+    color: blanchedalmond;
+    font-weight: 200;
+    cursor: pointer;
+}
+.tab-panels ul li.active{
+    color: #ff9155;
+    background: #fff1e5;
+}
+.tab-panels .panel{
+    display:none;
+    background: #ff916b;
+    padding:30px;
+    border-radius: 0 0 10px 10px;
+
+}
+.tab-panels .panel.active{
+    display: block;
+}

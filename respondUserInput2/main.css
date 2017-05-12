@@ -1,0 +1,15 @@
+body{
+    font-family: "Comic Sans MS";
+    color: #ff8624;
+    background-color: #fff7cd;
+    padding:0 20%;
+}
+li input{
+    display:none;
+}
+li.edit span{
+    display:none;
+}
+li.edit input{
+    display: initial;
+}

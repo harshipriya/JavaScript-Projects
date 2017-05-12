@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CoffeeSelector.iml" filepath="$PROJECT_DIR$/.idea/CoffeeSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CoffeeSelector using jQuery/.idea/CoffeeSelector.iml" filepath="$PROJECT_DIR$/../CoffeeSelector using jQuery/.idea/CoffeeSelector.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,25 @@
+li {
+    color: orange;
+    font-size: 16px;
+}
+body{
+background: #c1fdff;
+    font-family: Arial;
+}
+h1 {
+    color: brown;
+}
+h2{
+    background: chocolate;
+    color: azure;
+    padding: 20px;
+}
+p{
+    background: #d9ffd6;
+    color: blueviolet;
+
+}
+.secondary{
+    background: #fffd8a;
+    color: chartreuse;
+}

@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+header{
+    background: #caffec;
+    color: #26d5ff;
+    padding:5px 15px 0px 15px;
+}
+header h1{
+    margin:0;
+    display:inline;
+}
+nav ul{
+    margin:0;
+    padding:0px 0px 0px 15px;
+    display:inline;
+}
+nav ul li{
+    background-color: #26d5ff;
+    color: #caffec;
+    display:inline-block;
+    list-style-type: none;
+    padding: 5px 15px;
+    margins:0;
+}
+nav ul li a{
+    color: #1360ff;
+}
+.row{
+clear: both;
+}
+
+.col{
+    background: #ffd3b6;
+    border-radius: 5px;
+    padding : 20px 0.5%;
+    color: #ff1322;
+    margin:0.5%;
+    float:left;
+    width:31%;
+}
+footer{
+clear:both;
+}
